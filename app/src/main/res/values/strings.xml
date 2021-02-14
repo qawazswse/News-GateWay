@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">News Gateway</string>
+    <string name="drawer_open">Open drawer</string>
+    <string name="drawer_close">Close drawer</string>
+
+    <string name="capTitle">Capital</string>
+    <string name="popTitle">Population</string>
+    <string name="areaTitle">Area</string>
+    <string name="citTitle">Citizenship</string>
+    <string name="callingTitle">Calling Code(s)</string>
+    <string name="borderTitle">Borders</string>
+    <string name="capCityTitle">Capital City</string>
+
+    <string name="Api_Key">f6b831a376fc4c38943af812f5f5e498</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="flag">Flag</string>
+
+</resources>
